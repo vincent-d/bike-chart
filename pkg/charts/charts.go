@@ -11,8 +11,8 @@ import (
 	"github.com/go-echarts/go-echarts/v2/opts"
 	"github.com/go-echarts/go-echarts/v2/types"
 
-	"github.com/vincent-d/bike-count/pkg/bikecount"
-	"github.com/vincent-d/bike-count/pkg/ecovisio"
+	"github.com/vincent-d/bike-chart/pkg/bikecount"
+	"github.com/vincent-d/bike-chart/pkg/ecovisio"
 )
 
 func getMapLink(latitude float32, longitude float32) (string, error) {

@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/vincent-d/bike-count/pkg/charts"
+	"github.com/vincent-d/bike-chart/pkg/charts"
 )
 
 func main() {

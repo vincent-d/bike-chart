@@ -1,4 +1,4 @@
-module github.com/vincent-d/bike-count
+module github.com/vincent-d/bike-chart
 
 go 1.17
 

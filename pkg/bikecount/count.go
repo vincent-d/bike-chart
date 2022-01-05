@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/go-echarts/go-echarts/v2/opts"
-	"github.com/vincent-d/bike-count/pkg/ecovisio"
+	"github.com/vincent-d/bike-chart/pkg/ecovisio"
 )
 
 type BikeCountData struct {
